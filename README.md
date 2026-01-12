@@ -33,6 +33,7 @@ This tool saves time and improves hiring efficiency, making it ideal for demonst
 ---
 
 ## 📂 Project Structure
+```bash
 resume_screening_bot/
 │
 ├── data/
@@ -49,6 +50,7 @@ resume_screening_bot/
 ├── main.py                      ← main execution script
 ├── README.md
 └── requirements.txt
+```
 
 ---
 
@@ -145,8 +147,7 @@ Contributions welcome! Fork the repo and submit a PR.
 
 ## 📬 Contact
 
-👨‍💻 Aman Raj Aman
-📧 amanrajaman011@gmail.com
-
+- 👨‍💻 Aman Raj Aman
+- 📧 amanrajaman011@gmail.com
 🔗 [LinkedIn](www.linkedin.com/in/aman-raj-aman011) / [GitHub profile](https://github.com/amanrajaman)
 
