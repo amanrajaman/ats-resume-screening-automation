@@ -1,0 +1,6 @@
+pypdf2
+python-docx
+pandas
+spacy
+openpyxl
+schedule

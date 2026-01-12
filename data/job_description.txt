@@ -1,0 +1,7 @@
+python:5
+automation:4
+selenium:3
+api testing:3
+sql:4
+jenkins:2
+docker:2
