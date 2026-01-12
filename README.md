@@ -68,8 +68,9 @@ resume_screening_bot/
 ## 📥 Setup Configuration
 
 **1️⃣ Add job description weights**
+*Create*
 ```bash
-Create data/job_description.txt
+data/job_description.txt
 python:5
 automation:4
 selenium:3
@@ -89,7 +90,7 @@ Place PDF/DOCX files in data/resumes/
 ---
 
 **3️⃣ (Optional) Configure email**
-# In main.py
+**In main.py**
 ```bash
 sender_email = os.getenv("EMAIL_USER")
 app_password = os.getenv("EMAIL_PASS")
