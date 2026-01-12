@@ -148,5 +148,5 @@ Contributions welcome! Fork the repo and submit a PR.
 
 - 👨‍💻 Aman Raj Aman
 - 📧 amanrajaman011@gmail.com
-🔗 [LinkedIn](www.linkedin.com/in/aman-raj-aman011 ) / [GitHub profile](https://github.com/amanrajaman)
+🔗 [LinkedIn](https://www.linkedin.com/in/aman-raj-aman011/) / [GitHub profile](https://github.com/amanrajaman)
 
