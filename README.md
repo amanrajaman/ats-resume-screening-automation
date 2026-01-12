@@ -68,7 +68,7 @@ resume_screening_bot/
 ## 📥 Setup Configuration
 
 **1️⃣ Add job description weights**
-*Create*
+- *Create*
 ```bash
 data/job_description.txt
 python:5
@@ -83,9 +83,8 @@ docker:2
 ---
 
 **2️⃣ Add sample resumes**
-```bash
-Place PDF/DOCX files in data/resumes/
-```
+- Place PDF/DOCX files in data/resumes/
+
 
 ---
 
