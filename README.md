@@ -68,15 +68,16 @@ resume_screening_bot/
 ## 📥 Setup Configuration
 
 **1️⃣ Add job description weights**
-
-- Create data/job_description.txt
-- python:5
-- automation:4
-- selenium:3
-- api testing:3
-- sql:4
-- jenkins:2
-- docker:2
+```bash
+Create data/job_description.txt
+python:5
+automation:4
+selenium:3
+api testing:3
+sql:4
+jenkins:2
+docker:2
+```
 
 ---
 
@@ -126,12 +127,14 @@ python main.py
 ---
 
 ## 📚 Requirements File (example)
-- pypdf2
-- python-docx
-- pandas
-- spacy
-- openpyxl
-- schedule
+```bash
+pypdf2
+python-docx
+pandas
+spacy
+openpyxl
+schedule
+```
 
 ---
 
