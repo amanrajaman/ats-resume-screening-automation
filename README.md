@@ -82,8 +82,9 @@ docker:2
 ---
 
 **2️⃣ Add sample resumes**
-
-- Place PDF/DOCX files in data/resumes/
+```bash
+Place PDF/DOCX files in data/resumes/
+```
 
 ---
 
@@ -135,11 +136,6 @@ spacy
 openpyxl
 schedule
 ```
-
----
-
-## 📜 License
-MIT License
 
 ---
 
